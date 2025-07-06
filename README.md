@@ -1,7 +1,7 @@
 # Ứng dụng Triple DES và AES để bảo vệ thông tin nhạy cảm trong cơ sở dữ liệu
 <div align="center">
 <p align="center">
-  <img src="logo-dainam.png" alt="DaiNam University Logo" width="200"/>
+  <img width="1128" height="1024" alt="Image" src="https://github.com/user-attachments/assets/626bce02-3119-4f69-a839-82bbc3c8bc97" />
 </p>
 </div>
 
