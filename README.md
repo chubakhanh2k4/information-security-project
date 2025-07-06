@@ -52,7 +52,7 @@ python main.py
 ```
 <div align="center">
 <p align="center">
-  <img src="GiaoDienChinh.png" alt="GiaoDienChinh" width="800" height="800"/>
+  <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/e4b17039-2e44-48b5-86de-1c623e608458" />
 </p>
 </div>
 
