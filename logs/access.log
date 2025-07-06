@@ -1,0 +1,7 @@
+2025-06-29 22:00:20.847807 - admin - DECRYPT - Thông tin user_id=1
+2025-06-30 10:52:02.764367 - admin - DECRYPT - Thông tin user_id=1
+2025-07-02 09:18:51 - ADMIN(admin) - Xoá người dùng - user_id=3
+2025-07-02 09:28:52 - ADMIN(admin) - Xem thông tin người dùng - user_id=1
+2025-07-02 09:28:59 - ADMIN(admin) - Xoá người dùng - user_id=4
+2025-07-02 09:35:45 - ADMIN(admin) - Xoá người dùng - user_id=2
+2025-07-02 09:46:47 - ADMIN(admin) - Xoá người dùng - user_id=5
